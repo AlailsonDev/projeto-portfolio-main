@@ -131,9 +131,8 @@ body.acessibility {
 }
 
 body.acessibility {
-  .contact-input,
-  .contact-input-text {
-    width: 50%;
+  .contact-input {
+    width: 80%;
   }
 }
 
